@@ -23,4 +23,4 @@ npm run lint
 npm run lint-fix
 ```
 
-Example usage
+[Example usage](https://github.com/berkantunal/socket-io-boilerplate/tree/main/rooms)
