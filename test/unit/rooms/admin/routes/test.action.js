@@ -21,7 +21,7 @@ describe('-- admin route action --', () => {
 
   test('it should send action all clients', () => {
     var data = {
-      id: 1,
+      id: 1
     }
 
     action(io, data)
